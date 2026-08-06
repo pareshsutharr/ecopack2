@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import DarkCta from "@/components/DarkCta";
 import Gauges from "@/components/Gauges";
 import JsonLd from "@/components/JsonLd";
@@ -103,6 +104,19 @@ export default function QualityAssurancePage() {
           </div>
 
           <Gauges items={gauges} />
+
+          <figure className="rv" style={{ marginTop: 48 }}>
+            <Image
+              src="/assets/facility-qc-lab.jpeg"
+              alt="Bhaavya Ecopack's ISO-certified quality testing lab, Kosamba, Surat"
+              width={1448}
+              height={1086}
+              style={{ width: "100%", height: "auto", borderRadius: "var(--r)", border: "1px solid var(--line)" }}
+            />
+            <figcaption style={{ fontSize: 12.5, color: "var(--gray-500)", marginTop: 7, textAlign: "center" }}>
+              Our in-house quality testing lab — Kosamba, Surat
+            </figcaption>
+          </figure>
 
           <div className="tsplit" style={{ marginTop: 72 }}>
             <div className="rv">

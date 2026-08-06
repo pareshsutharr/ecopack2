@@ -34,17 +34,17 @@ const stations = [
     n: "Station 01",
     title: "Paper Storage",
     text: "Kraft reels stored covered and dry — because moisture control starts before corrugation.",
-    img: "https://static.wixstatic.com/media/3663c4_26aa5d997ba942529ee8516c7e97b51e~mv2.jpg/v1/fit/w_960,h_577,q_90,enc_avif,quality_auto/plant.jpg",
-    alt: "Fully automatic corrugation line — Bhaavya Ecopack Kosamba",
-    caption: "Fully automatic corrugation line",
+    img: "/assets/facility-reel-storage.jpeg",
+    alt: "Kraft paper reel storage area — Bhaavya Ecopack Kosamba",
+    caption: "Reel storage — organized, protected, ready for production",
   },
   {
     n: "Station 02",
     title: "Automatic Corrugation",
     text: "Paper is fluted, bonded and built into 3/5/7-ply board on a fully automatic line for batch-to-batch consistency.",
-    img: "https://static.wixstatic.com/media/3663c4_fbeca24dcf0d4ba99d63fdcb1b1be27b~mv2.jpg/v1/fit/w_960,h_577,q_90,enc_avif,quality_auto/plant.jpg",
-    alt: "High-speed board production — Bhaavya Ecopack Kosamba",
-    caption: "High-speed board production",
+    img: "/assets/facility-corrugation-line.jpeg",
+    alt: "Fully automatic corrugation line and control panel — Bhaavya Ecopack Kosamba",
+    caption: "Fully automatic corrugation line",
   },
   {
     n: "Station 03",
@@ -66,27 +66,27 @@ const stations = [
     n: "Station 05",
     title: "Quality Lab",
     text: "Bursting strength, Cobb moisture, GSM and compression checks on every lot — reports available to buyers.",
-    img: "https://static.wixstatic.com/media/3663c4_031176a98d25434e910f4bc75c50cf75~mv2.jpg/v1/fit/w_960,h_577,q_90,enc_avif,quality_auto/plant.jpg",
-    alt: "Printing & finishing line — Bhaavya Ecopack Kosamba",
-    caption: "Printing & finishing line",
+    img: "/assets/facility-qc-lab.jpeg",
+    alt: "ISO-certified quality testing lab — Bhaavya Ecopack Kosamba",
+    caption: "Quality testing lab",
   },
   {
     n: "Station 06",
     title: "Warehousing & Dispatch",
     text: "Finished goods staged under cover and loaded at highway-side bays, aligned to your schedules and vessel cut-offs.",
-    img: "https://static.wixstatic.com/media/3663c4_23d6f0de4e6049bebfa091abf35b41ec~mv2.jpg/v1/fit/w_960,h_577,q_90,enc_avif,quality_auto/plant.jpg",
-    alt: "Quality inspection in progress — Bhaavya Ecopack Kosamba",
-    caption: "Quality inspection in progress",
+    img: "/assets/facility-finished-goods-warehouse.jpeg",
+    alt: "Finished goods warehouse, staged and palletized — Bhaavya Ecopack Kosamba",
+    caption: "Finished goods, staged for dispatch",
   },
 ];
 
 const galleryShots = [
   {
-    img: "https://static.wixstatic.com/media/3663c4_26aa5d997ba942529ee8516c7e97b51e~mv2.jpg/v1/fill/w_1600,h_1000,al_c,q_90/a.jpg",
+    img: "/assets/facility-reel-storage.jpeg",
     alt: "Paper Storage — Bhaavya Ecopack facility, Surat",
   },
   {
-    img: "https://static.wixstatic.com/media/3663c4_140c28c1740247b4b70cdb4229d86490~mv2.webp/v1/fit/w_1000,h_800,q_92/a.webp",
+    img: "/assets/facility-corrugation-line.jpeg",
     alt: "Automatic Corrugation — Bhaavya Ecopack facility, Surat",
   },
   {
@@ -98,11 +98,11 @@ const galleryShots = [
     alt: "Die-Cutting & Finishing — Bhaavya Ecopack facility, Surat",
   },
   {
-    img: "https://static.wixstatic.com/media/3663c4_1edbe47a56c343f495bc4fbeb6c982a2~mv2.png/v1/fit/w_1000,h_800,q_92/a.png",
+    img: "/assets/facility-qc-lab.jpeg",
     alt: "Quality Lab — Bhaavya Ecopack facility, Surat",
   },
   {
-    img: "https://static.wixstatic.com/media/3663c4_26d753ef329a48f290da97ea7dff6018~mv2.jpeg/v1/fit/w_1000,h_800,q_92/a.jpeg",
+    img: "/assets/facility-finished-goods-warehouse.jpeg",
     alt: "Warehousing & Dispatch — Bhaavya Ecopack facility, Surat",
   },
 ];

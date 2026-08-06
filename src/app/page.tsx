@@ -179,7 +179,7 @@ const cases = [
 
 const gallery = [
   {
-    img: "https://static.wixstatic.com/media/3663c4_26aa5d997ba942529ee8516c7e97b51e~mv2.jpg/v1/fit/w_960,h_577,q_90,enc_avif,quality_auto/plant.jpg",
+    img: "/assets/facility-corrugation-line.jpeg",
     alt: "Fully automatic corrugation line — Bhaavya Ecopack Kosamba plant",
     caption: "Fully automatic corrugation line",
   },
@@ -194,7 +194,7 @@ const gallery = [
     caption: "Precision conversion section",
   },
   {
-    img: "https://static.wixstatic.com/media/3663c4_f7a3990730494dd194d59b7bc5bf8f59~mv2.jpg/v1/fit/w_960,h_577,q_90,enc_avif,quality_auto/plant.jpg",
+    img: "/assets/facility-finished-goods-warehouse.jpeg",
     alt: "Automated stacking & handling — Bhaavya Ecopack Kosamba plant",
     caption: "Automated stacking & handling",
   },
@@ -204,7 +204,7 @@ const gallery = [
     caption: "Printing & finishing line",
   },
   {
-    img: "https://static.wixstatic.com/media/3663c4_23d6f0de4e6049bebfa091abf35b41ec~mv2.jpg/v1/fit/w_960,h_577,q_90,enc_avif,quality_auto/plant.jpg",
+    img: "/assets/facility-qc-lab.jpeg",
     alt: "Quality inspection in progress — Bhaavya Ecopack Kosamba plant",
     caption: "Quality inspection in progress",
   },

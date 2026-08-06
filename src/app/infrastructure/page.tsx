@@ -64,7 +64,7 @@ const machinery = [
 
 const gallery = [
   {
-    src: "https://static.wixstatic.com/media/3663c4_bd43ef176bce44f8997488b7a7abf373~mv2.jpg/v1/fit/w_960,h_577,q_90,enc_avif,quality_auto/plant.jpg",
+    src: "/assets/facility-finished-goods-warehouse.jpeg",
     alt: "Finished-goods staging — Bhaavya Ecopack",
     caption: "Finished-goods staging",
   },
@@ -74,7 +74,7 @@ const gallery = [
     caption: "Dispatch-ready inventory",
   },
   {
-    src: "https://static.wixstatic.com/media/3663c4_0c72922e1a5c4039a1454cc006716b71~mv2.jpg/v1/fit/w_960,h_577,q_90,enc_avif,quality_auto/plant.jpg",
+    src: "/assets/facility-corrugation-line.jpeg",
     alt: "Plant floor, Kosamba facility — Bhaavya Ecopack",
     caption: "Plant floor, Kosamba facility",
   },
