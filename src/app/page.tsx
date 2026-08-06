@@ -13,6 +13,7 @@ import ProcessFlowAdvanced from "@/components/ProcessFlowAdvanced";
 import BoardGuide from "@/components/BoardGuide";
 import FaqAccordion from "@/components/FaqAccordion";
 import QuickRfqForm from "@/components/QuickRfqForm";
+import VideoEmbed from "@/components/VideoEmbed";
 
 export const metadata: Metadata = {
   title: "Corrugated Box Manufacturer in Surat, Gujarat | Moisture-Resistant Packaging",
@@ -477,6 +478,9 @@ export default function Home() {
           <div className="shead center rv">
             <span className="kicker">Inside Bhaavya Ecopack</span>
             <h2>The plant behind the promise.</h2>
+          </div>
+          <div className="rv" style={{ marginBottom: 32, maxWidth: 860, marginLeft: "auto", marginRight: "auto" }}>
+            <VideoEmbed youtubeId="KvhFaUOv9og" title="Bhaavya Ecopack — Company Overview" />
           </div>
           <div className="gal rv">
             {gallery.map((g) => (

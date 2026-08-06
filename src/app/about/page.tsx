@@ -3,6 +3,7 @@ import Image from "next/image";
 import PageHero from "@/components/PageHero";
 import DarkCta from "@/components/DarkCta";
 import JsonLd from "@/components/JsonLd";
+import VideoEmbed from "@/components/VideoEmbed";
 import { SITE_URL } from "@/lib/constants";
 
 export const metadata: Metadata = {
@@ -175,6 +176,18 @@ export default function AboutPage() {
                 <span>Kosamba, Gujarat</span>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div className="wrap">
+          <div className="shead center rv">
+            <span className="kicker">Watch</span>
+            <h2>Meet Bhaavya Ecopack.</h2>
+          </div>
+          <div className="rv" style={{ maxWidth: 860, margin: "0 auto" }}>
+            <VideoEmbed youtubeId="KvhFaUOv9og" title="Bhaavya Ecopack — Company Overview" />
           </div>
         </div>
       </section>

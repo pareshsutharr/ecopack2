@@ -3,6 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import DarkCta from "@/components/DarkCta";
 import JsonLd from "@/components/JsonLd";
+import VideoEmbed from "@/components/VideoEmbed";
 import { SITE_URL, organizationJsonLd } from "@/lib/constants";
 
 export const metadata: Metadata = {
@@ -178,14 +179,8 @@ export default function ManufacturingFacilityPage() {
                   </a>
                 ))}
               </div>
-              <div className="card rv" style={{ padding: 26, marginTop: 18 }}>
-                <b style={{ fontFamily: "var(--font-archivo)", color: "var(--ink)" }}>
-                  🎥 Facility film
-                </b>
-                <p style={{ fontSize: 14, marginTop: 6 }}>
-                  A 90-second plant video will sit here after the professional shoot — the single
-                  highest-impact trust asset for this page.
-                </p>
+              <div className="rv" style={{ marginTop: 18 }}>
+                <VideoEmbed youtubeId="KvhFaUOv9og" title="Bhaavya Ecopack — Facility Walkthrough" />
               </div>
             </div>
           </div>
