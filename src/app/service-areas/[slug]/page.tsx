@@ -56,7 +56,7 @@ export default async function LocationPage({
     name: "Bhaavya Ecopack",
     image: `${SITE_URL}/assets/logo.png`,
     telephone: "+91-99099-62080",
-    email: "sales@bhaavyaecopack.com",
+    email: "bhaavyaecopack@gmail.com",
     address: {
       "@type": "PostalAddress",
       streetAddress: "Block No. 250, Near Shital Hotel, Village Sava, Kosamba",

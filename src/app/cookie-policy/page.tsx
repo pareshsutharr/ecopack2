@@ -29,7 +29,7 @@ const sections = [
   },
   {
     heading: "Questions",
-    body: "Write to sales@bhaavyaecopack.com.",
+    body: "Write to bhaavyaecopack@gmail.com.",
   },
 ];
 

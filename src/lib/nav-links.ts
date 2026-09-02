@@ -91,8 +91,8 @@ export const footerServiceAreas = [
 export const contactInfo = {
   phone: "+91 99099 62080",
   phoneHref: "tel:+919909962080",
-  email: "sales@bhaavyaecopack.com",
-  emailHref: "mailto:sales@bhaavyaecopack.com",
+  email: "bhaavyaecopack@gmail.com",
+  emailHref: "mailto:bhaavyaecopack@gmail.com",
   whatsappHref: "https://wa.me/919909962080",
   hours: "Mon–Sat · 9:00–19:00",
   address:

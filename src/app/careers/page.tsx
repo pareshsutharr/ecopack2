@@ -91,10 +91,10 @@ export default function CareersPage() {
           <p className="rv" style={{ marginTop: 30 }}>
             Don&apos;t see your role? Write to{" "}
             <a
-              href="mailto:sales@bhaavyaecopack.com"
+              href="mailto:bhaavyaecopack@gmail.com"
               style={{ color: "var(--green-700)", fontWeight: 600 }}
             >
-              sales@bhaavyaecopack.com
+              bhaavyaecopack@gmail.com
             </a>{" "}
             with &quot;Careers&quot; in the subject.
           </p>

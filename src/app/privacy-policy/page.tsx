@@ -33,11 +33,11 @@ const sections = [
   },
   {
     heading: "Retention & rights",
-    body: "Business records are retained as required for commercial and statutory purposes. To review or delete your enquiry data, write to sales@bhaavyaecopack.com.",
+    body: "Business records are retained as required for commercial and statutory purposes. To review or delete your enquiry data, write to bhaavyaecopack@gmail.com.",
   },
   {
     heading: "Contact",
-    body: "Data queries: sales@bhaavyaecopack.com · +91 99099 62080.",
+    body: "Data queries: bhaavyaecopack@gmail.com · +91 99099 62080.",
   },
 ];
 

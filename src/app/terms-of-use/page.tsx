@@ -37,7 +37,7 @@ const sections = [
   },
   {
     heading: "Contact",
-    body: "Bhaavya Ecopack, Block No. 250, Near Shital Hotel, Village Sava, Kosamba, Dist. Surat – 394120 · sales@bhaavyaecopack.com · +91 99099 62080.",
+    body: "Bhaavya Ecopack, Block No. 250, Near Shital Hotel, Village Sava, Kosamba, Dist. Surat – 394120 · bhaavyaecopack@gmail.com · +91 99099 62080.",
   },
 ];
 

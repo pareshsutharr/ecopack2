@@ -24,7 +24,7 @@ const localBusinessJsonLd = {
   name: "Bhaavya Ecopack",
   image: `${SITE_URL}/assets/logo.png`,
   telephone: "+91-99099-62080",
-  email: "sales@bhaavyaecopack.com",
+  email: "bhaavyaecopack@gmail.com",
   priceRange: "₹₹",
   address: {
     "@type": "PostalAddress",
@@ -86,7 +86,7 @@ export default function ContactPage() {
                   >
                     WhatsApp us
                   </a>{" "}
-                  &nbsp;·&nbsp; ✉️ sales@bhaavyaecopack.com
+                  &nbsp;·&nbsp; ✉️ bhaavyaecopack@gmail.com
                 </p>
               </div>
               <div className="card rv rv2" style={{ padding: 30, marginTop: 22 }}>

@@ -11,7 +11,7 @@ export const organizationJsonLd = {
     "ISO 9001:2015-certified corrugated packaging manufacturer in Kosamba, Surat, Gujarat, India, specializing in moisture-resistant and export-grade corrugated boxes with 2,000 MT/month capacity today — 8,000 MT/month from October 2026.",
   foundingDate: "2021",
   telephone: "+91-99099-62080",
-  email: "sales@bhaavyaecopack.com",
+  email: "bhaavyaecopack@gmail.com",
   address: {
     "@type": "PostalAddress",
     streetAddress: "Block No. 250, Near Shital Hotel, Village Sava, Kosamba",
